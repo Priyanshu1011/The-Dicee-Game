@@ -10,3 +10,5 @@ Wanna settle a squabble? Easiest way is a dice roll...
 2. Refresh the page as many times for a dice roll until both players are satisfied with the results.
 
 Good Luck! May the `random()` Gods be with you :)
+
+[The Dicee Game](https://priyanshu1011.github.io/The-Dicee-Game/)
