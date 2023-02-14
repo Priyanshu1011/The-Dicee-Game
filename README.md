@@ -12,3 +12,8 @@ Wanna settle a squabble? Easiest way is a dice roll...
 Good Luck! May the `random()` Gods be with you :)
 
 [The Dicee Game](https://priyanshu1011.github.io/The-Dicee-Game/)
+
+### Screenshots:
+![Player 1 Wins](/ss/1.jpg)
+![Player 2 Wins](/ss/2.jpg)
+![Draw](/ss/3.jpg)
